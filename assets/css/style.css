@@ -1,0 +1,23 @@
+body {
+	background-image:url(background.jpg);
+}
+
+h1 {
+	margin:10px;
+}
+
+div {
+	background-color: white;
+	margin: 10px;
+	width: 33%
+}
+
+div {
+	border: solid 2px silver;
+	padding: 10px;
+}
+
+img {
+	width:75px;
+}
+
