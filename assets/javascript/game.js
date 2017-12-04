@@ -17,7 +17,6 @@ $("#losses").text(losses);
 
 function reset(){
       Random = Math.floor(Math.random()*101+19);
-      console.log(Random)
       $("#randomNumber").text(Random);
       num1 = Math.floor(Math.random()*11+1);
       num2 = Math.floor(Math.random()*11+1);
